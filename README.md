@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/YourSensei21/LeetCODE/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YourSensei21/LeetCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YourSensei21/LeetCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
