@@ -10,26 +10,21 @@
 
 class Solution {
 public:
-    TreeNode* ans = nullptr;
-    int helper(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == nullptr) return 0;
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        int pVal = p -> val;
+        int qVal = q -> val;
 
-        int left = helper(root -> left, p, q);
-        int right = helper(root -> right, p, q);
-
-        int self = 0;
-        if(root == p || root == q){
-            self = 1;
+        while(root != nullptr){
+            if(root -> val < pVal && root -> val < qVal){
+                root = root -> right;
+            }
+            else if(root -> val > pVal && root -> val > qVal){
+                root = root -> left;
+            }
+            else{
+                return root;
+            }
         }
-        int total = left + self + right;
-        if(total == 2 && ans == nullptr){
-            ans = root;
-        }
-        return total;
-    }
-TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q){
-    ans = nullptr;
-    helper(root, p, q);
-    return ans;
+        return nullptr;
     }
 };
