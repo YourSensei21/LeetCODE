@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
+| [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/YourSensei21/LeetCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YourSensei21/LeetCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YourSensei21/LeetCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YourSensei21/LeetCODE/tree/master/0700-search-in-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
