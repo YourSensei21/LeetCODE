@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YourSensei21/LeetCODE/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YourSensei21/LeetCODE/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union-Find
