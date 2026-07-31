@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YourSensei21/LeetCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/YourSensei21/LeetCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/YourSensei21/LeetCODE/tree/master/0058-length-of-last-word) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YourSensei21/LeetCODE/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/YourSensei21/LeetCODE/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YourSensei21/LeetCODE/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
