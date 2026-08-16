@@ -172,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/YourSensei21/LeetCODE/tree/master/0206-reverse-linked-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/YourSensei21/LeetCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
