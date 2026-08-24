@@ -183,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/YourSensei21/LeetCODE/tree/master/0543-diameter-of-binary-tree) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
