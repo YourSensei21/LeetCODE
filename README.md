@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/YourSensei21/LeetCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YourSensei21/LeetCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YourSensei21/LeetCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/YourSensei21/LeetCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/YourSensei21/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/YourSensei21/LeetCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
 | ------- |
