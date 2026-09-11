@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YourSensei21/LeetCODE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/YourSensei21/LeetCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/YourSensei21/LeetCODE/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YourSensei21/LeetCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/YourSensei21/LeetCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/YourSensei21/LeetCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/YourSensei21/LeetCODE/tree/master/0326-power-of-three) |
 ## DP on Trees
 |  |
 | ------- |
