@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YourSensei21/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/YourSensei21/LeetCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/YourSensei21/LeetCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YourSensei21/LeetCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YourSensei21/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/YourSensei21/LeetCODE/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YourSensei21/LeetCODE/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YourSensei21/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
