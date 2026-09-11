@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YourSensei21/LeetCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YourSensei21/LeetCODE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/YourSensei21/LeetCODE/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YourSensei21/LeetCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/YourSensei21/LeetCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/YourSensei21/LeetCODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
 ## DP on Trees
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YourSensei21/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
