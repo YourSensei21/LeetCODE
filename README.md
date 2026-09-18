@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/YourSensei21/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/YourSensei21/LeetCODE/tree/master/0198-house-robber) |
+| [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/YourSensei21/LeetCODE/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/YourSensei21/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/YourSensei21/LeetCODE/tree/master/0704-binary-search) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YourSensei21/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +241,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YourSensei21/LeetCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
