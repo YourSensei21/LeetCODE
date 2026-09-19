@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YourSensei21/LeetCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/YourSensei21/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/YourSensei21/LeetCODE/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YourSensei21/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/YourSensei21/LeetCODE/tree/master/0374-guess-number-higher-or-lower) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YourSensei21/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Lifting
 |  |
