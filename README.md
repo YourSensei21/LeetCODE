@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/YourSensei21/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/YourSensei21/LeetCODE/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/YourSensei21/LeetCODE/tree/master/0283-move-zeroes) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/YourSensei21/LeetCODE/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/YourSensei21/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YourSensei21/LeetCODE/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YourSensei21/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -266,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YourSensei21/LeetCODE/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
