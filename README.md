@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YourSensei21/LeetCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/YourSensei21/LeetCODE/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/YourSensei21/LeetCODE/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/YourSensei21/LeetCODE/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/YourSensei21/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YourSensei21/LeetCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
