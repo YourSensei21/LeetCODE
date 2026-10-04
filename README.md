@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/YourSensei21/LeetCODE/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/YourSensei21/LeetCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/YourSensei21/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/YourSensei21/LeetCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YourSensei21/LeetCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YourSensei21/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/YourSensei21/LeetCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/YourSensei21/LeetCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YourSensei21/LeetCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/YourSensei21/LeetCODE/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/YourSensei21/LeetCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/YourSensei21/LeetCODE/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/YourSensei21/LeetCODE/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
@@ -280,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
