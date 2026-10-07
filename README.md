@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YourSensei21/LeetCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/YourSensei21/LeetCODE/tree/master/0647-palindromic-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/YourSensei21/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1796-second-largest-digit-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YourSensei21/LeetCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
