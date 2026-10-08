@@ -2,7 +2,7 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         int count[26] = {0};
-        for(int i = 0; i < s.size(); i++){
+        for(int i = 0 ; i < s.size(); i++){
             count[s[i] - 'a']++;
         }
         for(int i = 0; i < s.size(); i++){
