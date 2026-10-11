@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YourSensei21/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/YourSensei21/LeetCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YourSensei21/LeetCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/YourSensei21/LeetCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YourSensei21/LeetCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/YourSensei21/LeetCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YourSensei21/LeetCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/YourSensei21/LeetCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/YourSensei21/LeetCODE/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/YourSensei21/LeetCODE/tree/master/0143-reorder-list) |
