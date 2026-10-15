@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YourSensei21/LeetCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YourSensei21/LeetCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/YourSensei21/LeetCODE/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/YourSensei21/LeetCODE/tree/master/0152-maximum-product-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/YourSensei21/LeetCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YourSensei21/LeetCODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/YourSensei21/LeetCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/YourSensei21/LeetCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/YourSensei21/LeetCODE/tree/master/0326-power-of-three) |
