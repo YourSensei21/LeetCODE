@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/YourSensei21/LeetCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/YourSensei21/LeetCODE/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/YourSensei21/LeetCODE/tree/master/0647-palindromic-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YourSensei21/LeetCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/YourSensei21/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/YourSensei21/LeetCODE/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/YourSensei21/LeetCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/YourSensei21/LeetCODE/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/YourSensei21/LeetCODE/tree/master/0647-palindromic-substrings) |
 ## Memoization
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YourSensei21/LeetCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/YourSensei21/LeetCODE/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/YourSensei21/LeetCODE/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/YourSensei21/LeetCODE/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
