@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YourSensei21/LeetCODE/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YourSensei21/LeetCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/YourSensei21/LeetCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/YourSensei21/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YourSensei21/LeetCODE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/YourSensei21/LeetCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
