@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YourSensei21/LeetCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YourSensei21/LeetCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/YourSensei21/LeetCODE/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/YourSensei21/LeetCODE/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/YourSensei21/LeetCODE/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YourSensei21/LeetCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/YourSensei21/LeetCODE/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/YourSensei21/LeetCODE/tree/master/0113-path-sum-ii) |
 ## Graph Theory
 |  |
