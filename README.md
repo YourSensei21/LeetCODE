@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/YourSensei21/LeetCODE/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/YourSensei21/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/YourSensei21/LeetCODE/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/YourSensei21/LeetCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YourSensei21/LeetCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/YourSensei21/LeetCODE/tree/master/0414-third-maximum-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YourSensei21/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/YourSensei21/LeetCODE/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/YourSensei21/LeetCODE/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/YourSensei21/LeetCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/YourSensei21/LeetCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/YourSensei21/LeetCODE/tree/master/0704-binary-search) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YourSensei21/LeetCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/YourSensei21/LeetCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/YourSensei21/LeetCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/YourSensei21/LeetCODE/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/YourSensei21/LeetCODE/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/YourSensei21/LeetCODE/tree/master/0509-fibonacci-number) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YourSensei21/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/YourSensei21/LeetCODE/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/YourSensei21/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/YourSensei21/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/YourSensei21/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YourSensei21/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YourSensei21/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/YourSensei21/LeetCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/YourSensei21/LeetCODE/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/YourSensei21/LeetCODE/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
 |  |
@@ -269,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/YourSensei21/LeetCODE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/YourSensei21/LeetCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/YourSensei21/LeetCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/YourSensei21/LeetCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/YourSensei21/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/YourSensei21/LeetCODE/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
